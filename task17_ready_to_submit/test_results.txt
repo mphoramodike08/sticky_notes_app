@@ -1,0 +1,3 @@
+Found 8 test(s).
+All 8 tests passed successfully using `python manage.py test notes`.
+Application root URL is configured in `sticky_notes/urls.py` and routes `""` to `notes.urls`.
